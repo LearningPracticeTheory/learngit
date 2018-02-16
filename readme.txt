@@ -8,3 +8,4 @@ branch test
 easy and simple
 Non-fast-merge
 no-ff
+after no-ff
