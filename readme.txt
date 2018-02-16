@@ -7,3 +7,4 @@ delete line
 branch test
 easy and simple
 Non-fast-merge
+no-ff
