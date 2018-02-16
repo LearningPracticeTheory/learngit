@@ -5,4 +5,4 @@ change again after add
 change before add.
 delete line 
 branch test
-easy & simple
+easy and simple
