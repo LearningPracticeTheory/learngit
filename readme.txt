@@ -6,3 +6,4 @@ change before add.
 delete line 
 branch test
 easy and simple
+Non-fast-merge
