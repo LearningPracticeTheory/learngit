@@ -9,3 +9,4 @@ easy and simple
 Non-fast-merge
 no-ff
 after no-ff
+debug 001
