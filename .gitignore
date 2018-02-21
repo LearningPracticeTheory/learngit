@@ -1,0 +1,5 @@
+#java:
+*.prefs
+*.class
+.classpath
+.project
